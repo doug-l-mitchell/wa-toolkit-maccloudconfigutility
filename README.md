@@ -1,3 +1,13 @@
+﻿Deprecated
+===
+
+##This Toolkit is now deprecated and is superseded by [Windows Azure Mobile Services](http://www.windowsazure.com/ios).
+
+The Windows Azure Toolkit for iOS provided developers with the first iteration of support for building backend services for iOS apps using Windows Azure.  The main areas of feedback we received from mobile developers was that they wanted a turn-key set of services for common functionality such as notifications, auth, and data.  [Windows Azure Mobile Services](http://www.windowsazure.com/ios) directly reflects this feedback by enabling developers to simpily provision, configure, and consume scalable backend services.  All future improvements will be channeled into Windows Azure Mobile Services rather than this toolkit.
+
+To get started with Mobile Services, [sign up](http://www.windowsazure.com/en-us/pricing/free-trial/) for a Windows Azure accound and receive 10 free Mobile Services.
+
+---
 Windows Azure Toolkit for iOS (Library)
 ===
 
